@@ -56,7 +56,7 @@ public class Server {
 
                 System.out.println("Creating a new handler for this client " + s);
 
-                clientserver.ClientHandler newClient = new clientserver.ClientHandler(s, hmap, fw, instream, outstream);
+                ClientHandler newClient = new ClientHandler(s, hmap, fw, instream, outstream);
 
                 //Starting a new thread for handling client
                 Thread t = new Thread(newClient);
