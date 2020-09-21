@@ -1,7 +1,3 @@
-// Java implementation for multithreaded chat client 
-// Save file as Client.java 
-
-package clientserver;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
