@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonia-kargutkar",
+  "private_key_id": "1d547dd26943d0763c87e621a2397af0e89a7fb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8oczfkTo12mK4\nFM1M0myJBaApjgbZy7rSIBreUI025c12x8c0Q5AzUFMmo2IhvfivH8ti9bZGESXw\ns535p+wow8xRPVKLR1m3BzfJgPXbdkW654F2SxNqAlgAGmB3+0YWz3dA4EX75Qbs\nDopFyL+av3mtHwe2cq4u9Wg5E4X+9m+SpCWdv5l2hL17q6zelER0mxnabITkMj+7\n6fvTiCjp1P1Mt5vZjizhkKPhviQTT0y1Lb9djY+dUIpkzTAmi3WBXnezlOEULPzw\nUqPv2ybkLfQziSApywp9gvpaX83hhovtF9LRN1Vz31hwjnRMR7g5JOShunAA4KQa\nxRirvPsJAgMBAAECggEABY+nGrm9O7h3I9pwJYlIHB+LdeIrK0lddgOuixqYmTNb\n8/omkjDCO/MMqoVTV6+SOPaA4GdiUu0/PzoKaKF13ctM9yGt0O+e8l2O/Fy2Etzp\nKB4aY96JgVz1k3YznSHuMm62IzZhddBOHJA+rRlCpdkqiQsyxuMZZcbEJnegAhDc\nqsH6SkXuDIGwdr4qNPcWkX2BF1hdpWgfF9AbyLwGAfBum8WtiZKBPqJlGCGBKm0t\n40nRuc5mwkWjF2yAqfZKPTzb7EwxFYJYBGM3dQph8eCujf7eTfjNWwrS1DOIU5WJ\niJFm+mPauqRnN1/io2zmYFTq40Mla2zAEADxc9lVwQKBgQDd4A3MW0eXwTbdBAO6\nXKRszD50h58ySJkCGGMkjsXN6yED/GgkA8eOveRYUpaZS4tHfxE94G3xcIo7HWl5\n+9RrCkBnBJbA8UmJ2FMfpbVghFae6x/kXfHKEQMAquTsyn8BXG/j5zmxKX7vPRa5\n4l2Iwf4jxA8FW/hbzc9sSS91SQKBgQDZpNrPWN1bZnhlRWf9wKbIXEhc7xqitzBN\nsjUHJ17VwgtMpMFwvxjF+CEgelKlovgADF0yBhuvHIqBa7bXcdrv9lnQ/4kQW/AV\nPSpiJ3zgdVJqNdrs8ueI0hne4n40XXxruqY84fa8dH41Uy/pzmzJfsOd6aO1KgLE\nUSHu3AwXwQKBgFy+BMaA+SIDz2z++pfxlYEstoZ7Eh4wnlRz4S0syJ3URM6nuNgl\nBEs0MLiCfRTCsQtHn+tfXlVnl0AygR5OF3JOrLDjCCjKMtT9qXE3EOOxLYvr+D66\nzhCKn9itllcsJX5qJxL6WfElyTszK8azSimZ/SLyFt1EnkGxe5xl0wKRAoGAYG/C\noKOAmdJCwKTLWk212QvC6KLty3GeTp8LDhts0wyDEzfhmsKiCH5Ut15cJpaaivLv\njI3WUHY2DPiccMQ7PZ6L16aSphQGwnJyyEE0/QQfO36Xfex3mVF3MyJqx2sxCU8P\n/+Qj/wcjMR+mGFRmMbYgmWUAK/LsfO5yObN5DEECgYBLWu5oUKdraw7E6es2dk+E\nYLolMJoQbqtZrtXTtcr9l2hT2VG/qvPoSW+M7iTAP196HcUOwVXGvk9KMSOAVXGD\n5pbZWclg4QpeLbHKwD7exuyzPiCC2oFliB5Nxz47b+udgoUt7Pq+Da2fJY3Jwg5z\nPxsGzrQhrm1ojyND9zBypg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-mapreduce-sk@sonia-kargutkar.iam.gserviceaccount.com",
+  "client_id": "109073215124339053597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-mapreduce-sk%40sonia-kargutkar.iam.gserviceaccount.com"
+}
